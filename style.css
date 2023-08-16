@@ -230,7 +230,7 @@ width: 90%;
 }
 
 .topnav a {
-  color: #dc143c;
+  color: white;
   padding: 20px 20px;
   text-decoration: none;
   font-family: "Arial";
@@ -240,14 +240,14 @@ width: 90%;
 }
 
 .topnav a.iconblock {
-  background: white;
+  background: #dc143c;
   display: block;
   position: absolute;
   right: 0;
   top: 0;
   cursor: pointer;
   border-radius: 6px;
-  border: 3px solid #dc143c;
+  border: 3px solid white;
 }
 
 .topnav a:hover {
@@ -262,7 +262,7 @@ width: 90%;
   color: #98c13d;
   cursor: pointer;
   border-radius: 6px;
-  border: 3px solid #dc143c;
+  border: 3px solid white;
 }
 
 

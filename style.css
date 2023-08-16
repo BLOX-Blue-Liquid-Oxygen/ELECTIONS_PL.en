@@ -213,15 +213,15 @@ width: 90%;
 }
 
 #myBtn:hover {
-  background-color: #dc143c;  
+  background-color: white;  
   color: red;
-  border: 3px solid red;
+  border: 3px solid #dc143c;
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
 .topnav {
   overflow: hidden;
-  background-color: white;
+  background-color: #dc143c;
   position: relative;
 }
 
@@ -230,7 +230,7 @@ width: 90%;
 }
 
 .topnav a {
-  color: #dc143c;
+  color: white;
   padding: 20px 20px;
   text-decoration: none;
   font-family: "Arial";

@@ -221,7 +221,7 @@ width: 90%;
 
 .topnav {
   overflow: hidden;
-  background-color: white;
+  background-color: #dc143c;
   position: relative;
 }
 
@@ -251,14 +251,14 @@ width: 90%;
 }
 
 .topnav a:hover {
-  background-color: #dc143c;
-  color: white;
-  border: 3px solid red;
+  background-color: white;
+  color: #dc143c;
+  border: 3px solid white;
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
 .active {
-  background-color: white;
+  background-color: #dc143c;
   color: #98c13d;
   cursor: pointer;
   border-radius: 6px;

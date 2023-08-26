@@ -1,7 +1,8 @@
+ELECTIONS In Poland
 UPDATE
-✌🇵🇱🇵🇱🇵🇱✌
 From:2023-08-23
 To:2023-08-26
+✌🇵🇱🇵🇱🇵🇱✌
 ZP[@pisorgpl]-(+2)195S
 KO[@Platforma_org](=)144S
 KON[@KONFEDERACJA_](+1)56S
@@ -11,3 +12,4 @@ MN[@NiemcywPolsce](=)1S
 S - Seat/s
 https://blox-blue-liquid-oxygen.github.io/ELECTIONS_PL.en
 @guardiannews
+"BLOX"-Technical Social Organization - For Creating Useful Social Solutions

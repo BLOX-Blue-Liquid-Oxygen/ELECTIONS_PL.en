@@ -31,3 +31,33 @@ L - 8.95%
 
 #DataEngineering #OpenData #OtwarteDane #Poland #Polska #GiantMountains #Karkonosze #Przesieka #Podgórzyn #PowiatKarkonoski #JeleniaGóra
 4/4
+
+
+ELECTIONS In Poland
+UPDATE
+2023-08-27
+✌🇵🇱🇵🇱🇵🇱✌
+ZP[@pisorgpl](-2)193S
+KO[@platformaobywatelska](+1)145S
+KON[@konfederacja_](-2)54S
+TD[@polska.2050+@nowepsl](+3)37S
+L[@__lewica](=)30S
+MN[@mniejszoscniemiecka](=)1S
+S - Seat/s
+https://blox-blue-liquid-oxygen.github.io/ELECTIONS_PL.en
+@guardiannews
+
+According to my forecast:
+✌🇵🇱✌
+2023-08-27
+ZP - 35.97%
+KO - 29.74%
+KON - 13.01%
+TD - 9.58%
+L - 8.95%
+@europe_elects @plotly
+
+"BLOX" - Technical Social Organization - For Creating Useful Social Solutions
+
+#ELECTIONS #WYBORY #DEMOCRATION #DEMOKRACJA #Python #Plotly #Dash #Pandas #PyCharm #Ubuntu #GitHub #GCP #Render #Django #PostgreSQL #RPA #Data #DataVisualization #DataScience
+#DataEngineering #OpenData #OtwarteDane #Poland #Polska #GiantMountains #Karkonosze #Przesieka #Podgórzyn #PowiatKarkonoski #JeleniaGóra

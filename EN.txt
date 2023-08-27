@@ -59,5 +59,4 @@ L - 8.95%
 
 "BLOX" - Technical Social Organization - For Creating Useful Social Solutions
 
-#ELECTIONS #WYBORY #DEMOCRATION #DEMOKRACJA #Python #Plotly #Dash #Pandas #PyCharm #Ubuntu #GitHub #GCP #Render #Django #PostgreSQL #RPA #Data #DataVisualization #DataScience
-#DataEngineering #OpenData #OtwarteDane #Poland #Polska #GiantMountains #Karkonosze #Przesieka #Podgórzyn #PowiatKarkonoski #JeleniaGóra
+#ELECTIONS #WYBORY #DEMOCRATION #DEMOKRACJA #Python #Plotly #Dash #Pandas #PyCharm #Ubuntu #GitHub #GCP #Render #Django #PostgreSQL #RPA #Data #DataVisualization #DataScience #DataEngineering #OpenData #OtwarteDane #Poland #Polska #GiantMountains #Karkonosze #Przesieka #Podgórzyn #PowiatKarkonoski #JeleniaGóra

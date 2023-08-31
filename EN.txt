@@ -1,12 +1,12 @@
 𝕏
 ELECTIONS In Poland
 UPDATE
-2023-08-29
+2023-08-31
 ✌🇵🇱🇵🇱🇵🇱✌
-ZP[@pisorgpl](=)193S
-KO[@Platforma_org](-1)144S
-KON[@KONFEDERACJA_](+1)55S
-TD[@PL_2050+@nowePSL](=)37S
+ZP[@pisorgpl](+2)195S
+KO[@Platforma_org](+1)145S
+KON[@KONFEDERACJA_](=)55S
+TD[@PL_2050+@nowePSL](-3)34S
 L[@__Lewica](=)30S
 MN[@NiemcywPolsce](=)1S
 S - Seat/s
@@ -16,12 +16,12 @@ https://blox-blue-liquid-oxygen.github.io/ELECTIONS_PL.en
 
 According to my forecast:
 ✌🇵🇱✌
-2023-08-29
-ZP - 35.97%
-KO - 29.74%
-KON - 13.07%
-TD - 9.82%
-L - 8.98%
+2023-08-31
+ZP - 36.14%
+KO - 29.84%
+KON - 13.04%
+TD - 9.13%
+L - 8.90%
 @EuropeElects @plotlygraphs
 2/4
 
@@ -37,12 +37,12 @@ L - 8.98%
 Insta
 ELECTIONS In Poland
 UPDATE
-2023-08-29
+2023-08-31
 ✌🇵🇱🇵🇱🇵🇱✌
-ZP[@pisorgpl](=)193S
-KO[@platformaobywatelska](-1)144S
-KON[@konfederacja_](+1)55S
-TD[@polska.2050+@nowepsl](=)37S
+ZP[@pisorgpl](+2)195S
+KO[@platformaobywatelska](+1)145S
+KON[@konfederacja_](=)55S
+TD[@polska.2050+@nowepsl](-3)34S
 L[@__lewica](=)30S
 MN[@mniejszoscniemiecka](=)1S
 S - Seat/s
@@ -51,12 +51,12 @@ https://blox-blue-liquid-oxygen.github.io/ELECTIONS_PL.en
 
 According to my forecast:
 ✌🇵🇱✌
-2023-08-29
-ZP - 35.97%
-KO - 29.74%
-KON - 13.07%
-TD - 9.82%
-L - 8.98%
+2023-08-31
+ZP - 36.14%
+KO - 29.84%
+KON - 13.04%
+TD - 9.13%
+L - 8.90%
 @europe_elects @plotly
 
 "BLOX" - Technical Social Organization - For Creating Useful Social Solutions
@@ -67,12 +67,12 @@ L - 8.98%
 FB
 ELECTIONS In Poland
 UPDATE
-2023-08-29
+2023-08-31
 ✌🇵🇱🇵🇱🇵🇱✌
-ZP[ @pisorgpl](=)193S
-KO[ @PlatformaObywatelska](-1)144S
-KON[ @KONFEDERACJA2019](+1)55S
-TD[ @PL2050+ @nowePSL](=)37S
+ZP[ @pisorgpl](+2)195S
+KO[ @PlatformaObywatelska](+1)145S
+KON[ @KONFEDERACJA2019](=)55S
+TD[ @PL2050+ @nowePSL](-3)34S
 L[ @NowaaLewica](=)30S
 MN[ @DeutscheMinderheitInOppeln](=)1S
 S - Seat/s
@@ -81,12 +81,12 @@ https://blox-blue-liquid-oxygen.github.io/ELECTIONS_PL.en
 
 According to my forecast:
 ✌🇵🇱✌
-2023-08-29
-ZP - 35.97%
-KO - 29.74%
-KON - 13.07%
-TD - 9.82%
-L - 8.98%
+2023-08-31
+ZP - 36.14%
+KO - 29.84%
+KON - 13.04%
+TD - 9.13%
+L - 8.90%
 @EuropeElects @Plotly
 
 "BLOX" - Technical Social Organization - For Creating Useful Social Solutions
@@ -99,12 +99,12 @@ L - 8.98%
 
 "ELECTIONS In Poland
 UPDATE
-2023-08-29
+2023-08-31
 ✌🇵🇱🇵🇱🇵🇱✌
-ZP[@pisorgpl](=)193S
-KO[@Platforma_org](-1)144S
-KON[@KONFEDERACJA_](+1)55S
-TD[@PL_2050+@nowePSL](=)37S
+ZP[@pisorgpl](+2)195S
+KO[@Platforma_org](+1)145S
+KON[@KONFEDERACJA_](=)55S
+TD[@PL_2050+@nowePSL](-3)34S
 L[@__Lewica](=)30S
 MN[@NiemcywPolsce](=)1S
 S - Seat/s
@@ -113,12 +113,12 @@ https://blox-blue-liquid-oxygen.github.io/ELECTIONS_PL.en
 
 According to my forecast:
 ✌🇵🇱✌
-2023-08-29
-ZP - 35.97%
-KO - 29.74%
-KON - 13.07%
-TD - 9.82%
-L - 8.98%
+2023-08-31
+ZP - 36.14%
+KO - 29.84%
+KON - 13.04%
+TD - 9.13%
+L - 8.90%
 @europeelects @plotly
 
 "BLOX" - Technical Social Organization - For Creating Useful Social Solutions
@@ -126,8 +126,8 @@ L - 8.98%
 #ELECTIONS #WYBORY #DEMOCRATION #DEMOKRACJA #Python #Plotly #Dash #Pandas #PyCharm #Ubuntu #GitHub #GCP #Render #Django #PostgreSQL #RPA #Data #DataVisualization #DataScience #DataEngineering #OpenData #OtwarteDane #Poland #Polska #GiantMountains #Karkonosze #Przesieka #Podgórzyn #PowiatKarkonoski #JeleniaGóra"
 
 
-ZP - 6643915.0
-KO - 5493189.0
-KON - 2414120.0
-TD - 1813826.0
-L - 1658670.0
+ZP - 6675314.0
+KO - 5511660.0
+KON - 2408581.0
+TD - 1686377.0
+L - 1643890.0

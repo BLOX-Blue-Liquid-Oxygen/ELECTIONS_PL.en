@@ -1,12 +1,12 @@
 𝕏
 ELECTIONS In Poland
 UPDATE
-2023-09-06
+2023-09-08
 ✌🇵🇱🇵🇱🇵🇱✌
-ZP[@pisorgpl](=)195S
+ZP[@pisorgpl](-1)194S
 KO[@Platforma_org](=)145S
 KON[@KONFEDERACJA_](=)55S
-TD[@PL_2050+@nowePSL](=)34S
+TD[@PL_2050+@nowePSL](+1)35S
 L[@__Lewica](=)30S
 MN[@NiemcywPolsce](=)1S
 S - Seat/s
@@ -16,16 +16,16 @@ https://blox-blue-liquid-oxygen.github.io/ELECTIONS_PL.en
 
 According to my forecast:
 ✌🇵🇱✌
-2023-09-06
-ZP - 36.21%
-KO - 29.95%
-KON - 13.08%
-TD - 9.04%
-L - 9.04%
-@EuropeElects @plotlygraphs
+2023-09-08
+ZP - 36.35% (+0.14%)
+KO - 30.01% (+0.06%)
+KON - 13.00% (-0.08%)
+TD - 9.37% (+0.33%)
+L - 8.97% (-0.07%)
+@EuropeElects, @plotlygraphs
 2/4
 
-"BLOX" - Technical Social Organization - For Creating Useful Social Solutions
+"BLOX": Technical Social Organization - For Creating Useful Social Solutions
 
 #ELECTIONS #WYBORY #DEMOCRATION #DEMOKRACJA #Python #Plotly #Dash #Pandas #PyCharm #Ubuntu #GitHub #GCP #Render #Django #PostgreSQL #RPA #Data #DataVisualization #DataScience
 3/4
@@ -37,12 +37,12 @@ L - 9.04%
 Insta
 ELECTIONS In Poland
 UPDATE
-2023-09-06
+2023-09-08
 ✌🇵🇱🇵🇱🇵🇱✌
-ZP[@pisorgpl](=)195S
+ZP[@pisorgpl](-1)194S
 KO[@platformaobywatelska](=)145S
 KON[@konfederacja_](=)55S
-TD[@polska.2050+@nowepsl](=)34S
+TD[@polska.2050+@nowepsl](+1)35S
 L[@__lewica](=)30S
 MN[@mniejszoscniemiecka](=)1S
 S - Seat/s
@@ -51,15 +51,15 @@ https://blox-blue-liquid-oxygen.github.io/ELECTIONS_PL.en
 
 According to my forecast:
 ✌🇵🇱✌
-2023-09-06
-ZP - 36.21%
-KO - 29.95%
-KON - 13.08%
-TD - 9.04%
-L - 9.04%
-@europe_elects @plotly
+2023-09-08
+ZP - 36.35% (+0.14%)
+KO - 30.01% (+0.06%)
+KON - 13.00% (-0.08%)
+TD - 9.37% (+0.33%)
+L - 8.97% (-0.07%)
+@europe_elects, @plotly
 
-"BLOX" - Technical Social Organization - For Creating Useful Social Solutions
+"BLOX": Technical Social Organization - For Creating Useful Social Solutions
 
 #ELECTIONS #WYBORY #DEMOCRATION #DEMOKRACJA #Python #Plotly #Dash #Pandas #PyCharm #Ubuntu #GitHub #GCP #Render #Django #PostgreSQL #RPA #Data #DataVisualization #DataScience #DataEngineering #OpenData #OtwarteDane #Poland #Polska #GiantMountains #Karkonosze #Przesieka #Podgórzyn #PowiatKarkonoski #JeleniaGóra
 
@@ -67,12 +67,12 @@ L - 9.04%
 FB
 ELECTIONS In Poland
 UPDATE
-2023-09-06
+2023-09-08
 ✌🇵🇱🇵🇱🇵🇱✌
-ZP[ @pisorgpl](=)195S
+ZP[ @pisorgpl](-1)194S
 KO[ @PlatformaObywatelska](=)145S
 KON[ @KONFEDERACJA2019](=)55S
-TD[ @PL2050+ @nowePSL](=)34S
+TD[ @PL2050+ @nowePSL](+1)35S
 L[ @NowaaLewica](=)30S
 MN[ @DeutscheMinderheitInOppeln](=)1S
 S - Seat/s
@@ -81,15 +81,15 @@ https://blox-blue-liquid-oxygen.github.io/ELECTIONS_PL.en
 
 According to my forecast:
 ✌🇵🇱✌
-2023-09-06
-ZP - 36.21%
-KO - 29.95%
-KON - 13.08%
-TD - 9.04%
-L - 9.04%
-@EuropeElects @Plotly
+2023-09-08
+ZP - 36.35% (+0.14%)
+KO - 30.01% (+0.06%)
+KON - 13.00% (-0.08%)
+TD - 9.37% (+0.33%)
+L - 8.97% (-0.07%)
+@EuropeElects, @Plotly
 
-"BLOX" - Technical Social Organization - For Creating Useful Social Solutions
+"BLOX": Technical Social Organization - For Creating Useful Social Solutions
 
 #ELECTIONS #WYBORY #DEMOCRATION #DEMOKRACJA #Python #Plotly #Dash #Pandas #PyCharm #Ubuntu #GitHub #GCP #Render #Django #PostgreSQL #RPA #Data #DataVisualization #DataScience #DataEngineering #OpenData #OtwarteDane #Poland #Polska #GiantMountains #Karkonosze #Przesieka #Podgórzyn #PowiatKarkonoski #JeleniaGóra
 
@@ -99,12 +99,12 @@ L - 9.04%
 
 "ELECTIONS In Poland
 UPDATE
-2023-09-06
+2023-09-08
 ✌🇵🇱🇵🇱🇵🇱✌
-ZP[@pisorgpl](=)195S
+ZP[@pisorgpl](-1)194S
 KO[@Platforma_org](=)145S
 KON[@KONFEDERACJA_](=)55S
-TD[@PL_2050+@nowePSL](=)34S
+TD[@PL_2050+@nowePSL](+1)35S
 L[@__Lewica](=)30S
 MN[@NiemcywPolsce](=)1S
 S - Seat/s
@@ -113,21 +113,21 @@ https://blox-blue-liquid-oxygen.github.io/ELECTIONS_PL.en
 
 According to my forecast:
 ✌🇵🇱✌
-2023-09-06
-ZP - 36.21%
-KO - 29.95%
-KON - 13.08%
-TD - 9.04%
-L - 9.04%
-@europeelects @plotly
+2023-09-08
+ZP - 36.35% (+0.14%)
+KO - 30.01% (+0.06%)
+KON - 13.00% (-0.08%)
+TD - 9.37% (+0.33%)
+L - 8.97% (-0.07%)
+@europeelects, @plotly
 
-"BLOX" - Technical Social Organization - For Creating Useful Social Solutions
+"BLOX": Technical Social Organization - For Creating Useful Social Solutions
 
 #ELECTIONS #WYBORY #DEMOCRATION #DEMOKRACJA #Python #Plotly #Dash #Pandas #PyCharm #Ubuntu #GitHub #GCP #Render #Django #PostgreSQL #RPA #Data #DataVisualization #DataScience #DataEngineering #OpenData #OtwarteDane #Poland #Polska #GiantMountains #Karkonosze #Przesieka #Podgórzyn #PowiatKarkonoski #JeleniaGóra"
 
 
-ZP - 6688242.0
-KO - 5531978.0
-KON - 2415968.0
-TD - 1669752.0
-L - 1669752.0
+ZP - 6714104.0
+KO - 5543061.0
+KON - 2401193.0
+TD - 1730708.0
+L - 1656822.0
